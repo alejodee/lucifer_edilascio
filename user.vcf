@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Ayala;Alex;;;
+FN: Ayala  Alex 
+ORG:Lucifer;
+TITLE:Co-founder
+EMAIL;type=INTERNET;type=WORK;type=pref:corgisama@gmail.com
+TEL;type=WORK;type=VOICE:+595971549184
+item1.URL;type=pref:lucifer.media
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
